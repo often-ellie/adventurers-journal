@@ -13,6 +13,10 @@ Then follow the **[install guide](INSTALL.md)**. Your computer will warn you onc
 because the app isn't from a big company, and the guide shows you how to get past it.
 
 ## Updating
-Install the newest version the same way. It installs over the old one and keeps your journals.
+From the version after 0.2.14 on, the journal offers new versions itself: a letter appears on the desk
+a few seconds after you open it. Choose "Bind it in now" and it updates and reopens where you
+left off. If you're on an older version, install the newest one the same way as the first
+time; it installs over the old one and keeps your journals.
 
-Your journals stay on your own computer. The app sends nothing anywhere.
+Your journals stay on your own computer. The only thing the app asks the internet is whether
+there's a new version.

@@ -43,17 +43,8 @@ The journal can control your own Spotify, but you need **Spotify Premium**. The 
 
 Closing the journal doesn't stop the music. Pause it in Spotify.
 
-## Music for anyone BUT my players
-If you are not part of MY D&D group, there is a longer, but completely free and optional step.
-
-1. Click the settings gear in the bottom left corner.
-2. Select the "Use your own spotify app" button.
-3. Follow the prompts to sign into your own Spotify and listen!
-
-This step is longer, landing at about 5 minutes, but it allows you to listen to music. Again, this is completely optional, as you can literally just... listen to Spotify on the own. This only exists because I thought it would be nice to have the pause/play options within the app to prevent from tabbing out. Might add some immersion.
-
 ## New versions, backups and removing it
-- **New version:** install the new installer the same way. It installs over the old one, and your journal stays as it is.
+- **New version:** the journal offers it itself when you open it (from the version after 0.2.14 on); choose "Bind it in now". Or install the new installer the same way. Either way it installs over the old one, and your journal stays as it is.
 - **Backups:** the journal keeps copies of itself, once a day by default. You can change this under the gear, in **Keeping**. **Keep a copy now** makes one straight away. **Open a kept copy** brings an older one back as a separate journal.
 - **Removing it:** on Windows, go to the gear, then **Uninstall the journal…**. Your journal is kept unless you tick "Delete the application data". On a Mac, drag the app to the Bin.
 
